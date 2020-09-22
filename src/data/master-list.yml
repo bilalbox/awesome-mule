@@ -1,0 +1,288 @@
+BASICS:
+  MuleSoft_Essential_Links:
+    - https://www.mulesoft.com/
+    - https://docs.mulesoft.com
+    - https://help.mulesoft.com
+    - https://blog.mulesoft.com
+    - https://status.mulesoft.com
+    - https://catalyst.mulesoft.com
+    - https://github.com/mulesoft-catalyst
+    - https://github.com/mulesoft-consulting
+  REST_and_API_Design:
+    - https://www.mulesoft.com/lp/ebook/api/restbook
+    - https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf
+  API-Led_Connectivity:
+    - https://www.mulesoft.com/resources/api/types-of-apis
+    - https://docs.mulesoft.com/general/api-led-overview
+    - https://www.mulesoft.com/lp/whitepaper/api/api-led-connectivity
+  HTTP_Methods_and_Status_Codes:
+    - https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+    - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+MULE_RUNTIME:
+  Mule_3-to-4:
+    - https://blogs.mulesoft.com/dev/mule-dev/10-ways-mule-4-will-make-your-life-easier/
+    - https://docs.mulesoft.com/mule-runtime/latest/intro-engine
+    - https://docs.mulesoft.com/mule-runtime/latest/intro-mule-message
+    - https://docs.mulesoft.com/mule-runtime/latest/migration-prep#when_to_start
+    - https://www.mulesoft.com/legal/versioning-back-support-policy#end-of-life-support
+    - https://beta.docs.stgx.mulesoft.com/beta-migration-tool/mule-runtime/4.1/migration-tutorial#prereqs
+    - https://docs.mulesoft.com/mule-runtime/latest/index-migration
+    - https://apisero.com/tech-tutorials/f/mule-migration-assistant
+  Mule_4_Streaming_and_Pagination:
+    - https://docs.mulesoft.com/mule-runtime/latest/streaming-about#streaming-strategies
+    - https://blogs.mulesoft.com/dev/mule-dev/streaming-in-mule-4/
+    - https://blogs.mulesoft.com/dev/mule-dev/scalability-features-mule-4-sdk/
+  Performance:
+    - https://docs.mulesoft.com/mule-runtime/latest/execution-engine
+    - https://www.mulesoft.com/lp/reports/mule4-runtime-engine-performance
+    - https://docs.mulesoft.com/mule-runtime/4.3/tuning-guide
+  Error_Handling:
+    - https://blogs.mulesoft.com/dev/training-dev/mule4-error-handling/
+    - https://blogs.mulesoft.com/dev/training-dev/mule4-error-handling-use-cases/
+    - https://blogs.mulesoft.com/dev/training-dev/mule4-error-handling-deep-dive/
+
+PRICING:
+  Licensing:
+    - https://www.mulesoft.com/anypoint-pricing
+    - https://www.mulesoft.com/prod-subscription-plans
+  Support_Level_Agreements:
+    - https://www.mulesoft.com/legal/support-maintenance-terms
+
+OPERATIONS:
+  Configuration_Properties:
+    - https://12factor.net/config
+    - https://docs.mulesoft.com/mule-runtime/latest/configuring-properties
+  Logging:
+    - https://blogs.mulesoft.com/dev/anypoint-platform-dev/mulesoft-development-mule-4-logging/
+    - https://help.mulesoft.com/s/article/How-to-configure-Appender-to-Splunk-in-Mule-Application-log4j-configuration
+    - https://blogs.mulesoft.com/dev/anypoint-platform-dev/json-logging-mule-4/
+    - https://github.com/mulesoft-consulting/json-logger/blob/mule-4.x/template-files/splunk/log4j2.xml
+    - https://help.mulesoft.com/s/article/How-to-send-Mule-application-logging-entries-to-Elastic-Stack-ELK-using-Socket-Appender
+    - https://docs.mulesoft.com/runtime-fabric/latest/runtime-fabric-logs
+  JMX:
+    - https://docs.mulesoft.com/runtime-manager/jmx-service
+  Automatic_CloudHub_Runtime_Update_Schedule:
+    - https://docs.mulesoft.com/runtime-manager/cloudhub-app-runtime-version-updates
+
+SECURITY:
+  Secure_properties:
+    - https://docs.mulesoft.com/runtime-manager/secure-application-properties
+    - https://docs.mulesoft.com/mule-runtime/latest/secure-configuration-properties
+  Using_HTTPS:
+    - https://docs.mulesoft.com/runtime-manager/building-an-https-service
+    - https://docs.mulesoft.com/mule-runtime/latest/tls-configuration
+    - https://docs.mulesoft.com/mule-runtime/latest/tls-configuration#optional-specify-protocols-and-cipher-suites
+  HTTP_Authentication_Examples:
+    - https://anypoint.mulesoft.com/exchange/org.mule.examples/oauth2-authorization-code-using-the-HTTP-connector/
+    - https://anypoint.mulesoft.com/exchange/org.mule.examples/authenticating-salesforce-using-oauth2/
+    - https://anypoint.mulesoft.com/exchange/org.mule.examples/login-form-using-the-http-connector/
+
+  Identity_Management_and_Client_Management:
+    - https://docs.mulesoft.com/access-management/managing-users
+    - https://docs.mulesoft.com/access-management/managing-api-clients
+  Oauth_and_client_management:
+    - https://docs.mulesoft.com/access-management/configure-client-management-openid-task
+    - https://developer.okta.com/blog/2018/07/06/secure-api-mulesoft
+    - https://dzone.com/articles/integrating-okta-oauth-20-oidc-with-mulesoft-anypo
+    - https://help.salesforce.com/articleView?id=remoteaccess_oidc_dynamic_client_reg_flow.htm&type=5
+  API_Manager_Policies_and_Autodiscovery:
+    - https://docs.mulesoft.com/api-manager/latest/api-proxy-landing-page
+    - https://docs.mulesoft.com/api-manager/latest/policies-ootb-landing-page
+    - https://docs.mulesoft.com/api-manager/latest/api-auto-discovery-new-concept#proxy-endpoint-vs-basic-endpoint
+    - https://docs.mulesoft.com/api-manager/latest/api-gateway-capabilities-mule4
+    - https://docs.mulesoft.com/api-manager/latest/configure-autodiscovery-4-task
+    - https://hpbn.co/http2/
+    - https://hpbn.co/websocket/
+
+DATAWEAVE_2.x:
+  Java_DateTime_Formatting:
+    - https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
+    - https://docs.oracle.com/javase/tutorial/i18n/format/decimalFormat.html
+    - https://help.mulesoft.com/s/article/How-to-format-numbers-in-DataWeave
+    - https://docs.mulesoft.com/mule-runtime/latest/dataweave-cookbook-parse-dates
+  Practice_Examples_and_Tools:
+    - https://docs.mulesoft.com/mule-runtime/latest/dataweave-cookbook
+    - https://docs.mulesoft.com/mule-runtime/latest/dataweave-quickstart
+    - https://blogs.mulesoft.com/dev/howto/dataweave-to-read-xml/
+    - https://www.jerney.io/dataweave-practice-exercises/
+    - https://rebrand.ly/dwl-2-playground
+    - https://github.com/mulesoft-labs/data-weave-native
+  Java_vs_Dataweave:
+    - https://blogs.mulesoft.com/dev/tech-ramblings/dataweave-performance-demystified/
+    - https://docs.mulesoft.com/connectors/java/java-invoke-method
+    - https://docs.mulesoft.com/mule-runtime/latest/dataweave-cookbook-java-methods
+    - https://blogs.mulesoft.com/dev/mule-dev/dataweave-lambdas-for-java-programmers/
+    - https://blogs.mulesoft.com/dev/training-dev/dataweave-function-chaining-for-java/
+
+CERTIFICATION_AND_TRAINING:
+  MuleSoft_Certified_Developer_Level_1:
+    - https://training.mulesoft.com/exam/mcd-level1
+    - https://training.mulesoft.com/course/mulesoftu-fundamentals4
+    - https://training.mulesoft.com/course/fundamentals4-quiz-diy
+  MuleSoft_Certified_Developer_API_Design_Associate:
+    - https://training.mulesoft.com/exam/mcd-raml
+    - https://raml.org
+    - https://raml.org/developers/raml-100-tutorial
+    - https://raml.org/developers/raml-200-tutorial
+    - https://docs.mulesoft.com/design-center/design-common-problems-raml-10
+  MuleSoft_Certified_Platform_Architect_Level_1:
+    - https://training.mulesoft.com/exam/mcpa-level1
+    - https://training.mulesoft.com/mcpa-level1-quiz
+  MuleSoft_Certified_Integration_Architect_Level_1:
+    - https://training.mulesoft.com/exam/mcia-level1
+    - https://training.mulesoft.com/instructor-led-training/aparch-integration-solutions
+  Production_Ready_Development_Practices:
+    - https://training.mulesoft.com/instructor-led-training/apdev-dev-practices
+  More_practice:
+    - http://workshop.tools.mulesoft.com/modules/
+    - https://developer.mulesoft.com/tutorials
+    - https://anypoint.mulesoft.com/exchange/?type=example
+    - https://github.com/mulesoft/anypoint-examples
+
+MISCELLANIOUS:
+  Microservices_vs_Monoliths:
+    - https://thenewstack.io/kelsey-hightower-and-ben-sigelman-debate-microservices-vs-monoliths/
+  Custom_Policies:
+    - https://docs.mulesoft.com/api-manager/2.x/policies-custom-landing-page
+    - https://github.com/mulesoft/api-gateway-custom-policies-examples
+    - https://dzone.com/articles/custom-policy-in-mule-4
+    - https://dzone.com/articles/custom-policy-creation-in-mule-4
+    - https://docs.mulesoft.com/api-manager/latest/caching-in-a-custom-policy-mule-4
+  HTTP_Caching:
+    - https://apisero.com/cache-scope-and-object-store-in-mule-4/
+    - https://medium.com/swlh/introducing-cache-in-your-system-396338110106
+    - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control
+    - https://csswizardry.com/2019/03/cache-control-for-civilians/
+    - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching
+    - https://blogs.mulesoft.com/dev/api-dev/caching-policy-api-performance/
+    - https://apisyouwonthate.com/videos/
+  Retry_Strategies:
+    - https://www.mulesoft.com/exchange/org.mule.examples/retry-mechanism-example/
+    - https://dzone.com/articles/until-successful-scope-in-mule
+  Circuit_Breakers:
+    - https://www.youtube.com/watch?v=mJ8JSach2P4
+    - https://www.youtube.com/watch?v=kR2sm1zelI4
+    - https://gotober.com/2019/sessions/1063/battle-of-the-circuit-breakers-resilience4j-vs-istio
+    - https://github.com/mulesoft-consulting/circuit-breaker-policy-mule4
+    - https://docs.mulesoft.com/anypoint-mq-connector/2.x/anypoint-mq-listener#circuit-breaker-capability
+  Message_Queuing_EDA_CQRS_Event_Sourcing_Integration_Patterns:
+    - https://www.mulesoft.com/resources/cloudhub/what-is-a-messaging-queuing-service
+    - https://blogs.mulesoft.com/dev/design-dev/asynchronous-messaging-patterns/
+    - https://docs.mulesoft.com/mule-runtime/latest/understanding-enterprise-integration-patterns-using-mule
+    - https://docs.mulesoft.com/mule-runtime/latest/reliability-patterns
+    - https://github.com/mulesoft-catalyst/cqrs-pattern
+    - https://blogs.mulesoft.com/dev/api-dev/api-led-connectivity-and-cqrs-api-layering-and-the-cqrs-api-implementation
+    - https://blogs.mulesoft.com/dev/mule-dev/api-led-connectivity-and-cqrs-how-mule-supports-traditional-integration-tasks/
+    - https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing
+    - https://www.erikheemskerk.nl/event-sourcing-eventual-consistency-responding-to-events/
+    - https://github.com/mulesoft-catalyst/jms-transaction-retry-pattern
+    - https://www.asyncapi.com/docs/getting-started/event-driven-architectures/
+    - https://blogs.mulesoft.com/dev/api-dev/event-driven-architectures-asyncapi/
+    - https://blogs.mulesoft.com/dev/api-dev/design-message-driven-and-event-driven-apis/
+    - https://blogs.mulesoft.com/dev/connectivity-dev/why-messaging-queues-suck/
+    - https://docs.mulesoft.com/mq/
+    - https://docs.mulesoft.com/connectors/jms/jms-connector
+    - https://docs.mulesoft.com/connectors/vm/vm-reference
+    - https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html
+  Runtime_Planes:
+    - https://docs.mulesoft.com/general/intro-platform-hosting
+    - https://docs.mulesoft.com/runtime-manager/deployment-strategies
+    - https://docs.mulesoft.com/runtime-manager/vpc-architecture-concept
+    - https://docs.mulesoft.com/runtime-manager/cloudhub-dedicated-load-balancer
+    - https://docs.mulesoft.com/runtime-manager/vpc-firewall-rules-concept
+    - https://docs.mulesoft.com/runtime-manager/deploying-to-cloudhub#worker-size-and-vcores
+    - https://docs.mulesoft.com/runtime-fabric/latest/architecture
+    - https://docs.mulesoft.com/runtime-fabric/latest/install-manual
+    - https://help.mulesoft.com/s/article/How-to-access-Mule-workers-through-different-connectivity-methods
+    - https://help.mulesoft.com/s/article/How-To-Use-Network-Tools-Application
+  DLB_Setup:
+    - https://ambassadorpatryk.com/2020/05/enable-dedicated-load-balancer-under-own-domain/
+  CICD:
+    - https://medium.com/@nirespire/what-is-cicd-concepts-in-continuous-integration-and-deployment-4fe3f6625007
+    - https://www.mulesoft.com/resources/api/top-devops-tools
+    - https://www.mulesoft.com/webinars/api/devops-api-lifecycle-anypoint-platform
+    - https://blogs.mulesoft.com/dev/anypoint-platform-dev/how-to-build-continuous-integration-deployment-api-lifecycle/
+    - https://platform.deloitte.com.au/articles/creating-pipelines-with-azure-devops-for-your-mule-releases
+    - https://dzone.com/articles/deploying-mule-application-to-cloudhub-via-aws-azu
+    - https://docs.mulesoft.com/mule-runtime/latest/deploy-to-rtf
+    - https://dzone.com/articles/deploy-mule-4-application-to-anypoint-runtime-fabr
+  Custom_Connectors:
+    - https://dzone.com/articles/how-to-create-a-custom-connector-in-new-mule-sdk-4
+    - https://dzone.com/articles/mulesoft-custom-connector-using-mule-sdk-for-mule
+    - https://dzone.com/articles/creating-a-custom-connector-using-xml-sdk-and-depl
+    - https://docs.mulesoft.com/connectors/xml/xml-schema-validation
+    - https://www.mulesoft.com/platform/cloud-connectors/certified
+  AnyPoint_Service_Mesh:
+    - https://docs.mulesoft.com/service-mesh/latest/
+    - http://share.vidyard.com/watch/Fgv8v6FDVn55ygmFJmMxFb?
+    - https://thenewstack.io/an-exploratory-guide-to-the-service-mesh-platforms/
+    - https://www.squadcast.com/blog/the-age-of-service-mesh
+  Monetizing_APIs:
+    - https://blogs.mulesoft.com/biz/api/api-monetization-marketplaces/
+    - https://www.mulesoft.com/lp/whitepaper/api/api-strategy-essentials
+    - https://blogs.mulesoft.com/biz/api/ross-mason-api-economy-podcast/
+  DIY_ObjectStore:
+    - https://www.cleanslatetg.com/2018/08/30/mulesoft-4-using-the-amazon-dynamodb-connector/
+    - https://docs.mulesoft.com/connectors/mongodb/mongodb-connector-6-0-examples
+    - https://docs.mulesoft.com/runtime-manager/managing-application-data-with-object-stores
+    - https://help.mulesoft.com/s/article/The-Different-Types-of-Object-Stores-Explained
+  Maven:
+    - https://maven.apache.org/guides/getting-started/index.html
+    - https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+    - https://www.baeldung.com/maven
+  ETL_EDI:
+    - https://www.mulesoft.com/ty/wp/etl-elt-tool-data-integration
+    - https://www.mulesoft.com/lp/whitepaper/api/supply-chain-management-edi-system
+    - https://www.mulesoft.com/exchange/org.mule.examples/salesforce-data-synchronization-using-watermarking-and-batch-processing/
+    - https://developer.mulesoft.com/guides/data-processing-integrations/creating-batch-etl-integration
+    - https://developer.mulesoft.com/guides/quick-start/connecting-your-first-saas-applications
+  Watermarking:
+    - https://docs.mulesoft.com/mule-runtime/latest/migration-patterns-watermark
+  Testing:
+    - https://docs.mulesoft.com/mule-runtime/latest/test-mule-applications
+    - https://docs.mulesoft.com/munit/latest/munit-test-concept
+    - https://docs.mulesoft.com/munit/latest/munit-cookbook
+    - https://docs.mulesoft.com/munit/latest/test-recorder
+  Versioning:
+    - https://semver.org
+    - https://docs.mulesoft.com/exchange/to-change-raml-version#multiple-api-and-asset-versions
+    - https://docs.mulesoft.com/mule-runtime/latest/intro-packaging#application-versioning
+  Oauth_and_JWT:
+    - https://oauth.net/2/grant-types/
+    - https://blog.oauth.io/introduction-oauth2-flow-diagrams/
+    - https://jwt.io/introduction/
+    - https://blogs.mulesoft.com/dev/training-dev/json-web-token-validation/
+    - https://www.youtube.com/watch?v=soGRyl9ztjI
+  Transaction_Management:
+    - https://docs.mulesoft.com/mule-runtime/latest/transaction-management
+    - https://dzone.com/articles/transaction-management-in-mulesoft
+    - https://docs.mulesoft.com/connectors/jms/jms-transactions
+    - https://www.mulesoft.com/exchange/org.mule.examples/using-transactional-scope-in-jms-to-database/
+  Automation:
+    - https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/
+    - https://github.com/mulesoft-consulting/automated-api-promotion
+    - https://docs.mulesoft.com/mule-runtime/latest/deploying
+  CloudHub_Scheduling_and_CRON:
+    - https://docs.mulesoft.com/runtime-manager/managing-schedules
+    - http://www.quartz-scheduler.org/api/2.3.0/index.html
+  Docker_Kubernetes_Istio_Envoy:
+    - https://kubernetes.io/docs/tutorials/kubernetes-basics/
+    - https://docs.docker.com/
+    - https://linuxacademy.com/library/community-edition/search/kubernetes
+    - https://www.coursera.org/search?query=kubernetes&
+    - https://www.katacoda.com/courses/kubernetes/playground
+    - https://labs.play-with-k8s.com/
+    - http://play-with-docker.com/
+    - https://istio.io/docs/concepts/what-is-istio/
+    - https://istio.io/docs/examples/microservices-istio/
+    - https://www.katacoda.com/courses/istio
+    - https://www.envoyproxy.io/learn/
+    - https://www.envoyproxy.io/try/
+  Documentation-Related:
+    - https://github.com/mulesoft-catalyst/exchange-api-portal-markdown
+    - https://anypoint.mulesoft.com/exchange/portals/mulesoft-1913/d30727ef-7fe6-4e4c-91b4-079a5b834d52/address-validation-system-api/minor/1.0/pages/Support/
+    - https://github.com/mulesoft-catalyst/anypoint-kpi-system-api-mule4
+  Google_Fu:
+    - https://ahrefs.com/blog/google-advanced-search-operators/
+    - https://www.exploit-db.com/google-hacking-database/
