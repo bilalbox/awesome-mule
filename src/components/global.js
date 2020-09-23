@@ -4,7 +4,7 @@ export const GlobalStyles = createGlobalStyle`
     header {
       width: 100%;
       text-align: center;
-      background: ${({ theme }) => theme.header};
+      flex: 1;
       color: ${({ theme }) => theme.text};
     }
 
@@ -40,9 +40,7 @@ export const GlobalStyles = createGlobalStyle`
       bottom: 0;
       width: 100%;
       text-align: center;
-      font-weight: 500;
-      font-size: 20px;
-      background: ${({ theme }) => theme.footer};
+      font-size: 18px;
       color: ${({ theme }) => theme.text};
     }
 
