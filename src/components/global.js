@@ -1,18 +1,11 @@
 import { createGlobalStyle } from "styled-components"
 
 export const GlobalStyles = createGlobalStyle`
-    *,
-    *::after,
-    *::before {
-      box-sizing: border-box;
-    }
-
     header {
       width: 100%;
-      padding: 20px;
       text-align: center;
-        background: ${({ theme }) => theme.header};
-        color: ${({ theme }) => theme.text};
+      background: ${({ theme }) => theme.header};
+      color: ${({ theme }) => theme.text};
     }
 
     button {
@@ -25,6 +18,7 @@ export const GlobalStyles = createGlobalStyle`
       text-align: center;
       font-size: 40px;
       font-weight: 500;
+      flex: 1;
       font-family: 'Impact';
       text-decoration: none;
       color: ${({ theme }) => theme.text};
@@ -35,15 +29,9 @@ export const GlobalStyles = createGlobalStyle`
       background: ${({ theme }) => theme.body};
       color: ${({ theme }) => theme.text};
       display: flex;
-      flex-direction: column;
+      width: 100%;
       font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
       transition: all 0.1s linear;
-    }
-
-    .wrap {
-      padding: 20px;
-      min-height: 100%;
-      margin: 0px auto -50px;
     }
 
     footer {

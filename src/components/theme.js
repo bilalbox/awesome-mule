@@ -1,11 +1,11 @@
-const lightPanel = "#0096C7"
-const lightBG = "#ADE8F4"
-const lightTxt = "#03045E"
-const lightHoverTxt = "023E8A"
-const darkPanel = "#14213D"
-const darkBG = "#03045E"
-const darkTxt = "#CAF0F8"
-const darkHoverTxt = "#ADE8F4"
+const lightPanel = "darkturquoise"
+const lightBG = "white"
+const lightTxt = "darkblue"
+const lightHoverTxt = "black"
+const darkPanel = "darkcyan"
+const darkBG = "black"
+const darkTxt = "azure"
+const darkHoverTxt = "cornsilk"
 
 export const lightTheme = {
   body: lightBG,
