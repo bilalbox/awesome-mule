@@ -7,7 +7,7 @@ class YAML_List extends React.Component {
   render() {
     if (Object.entries(YAML).length > 0) {
       return (
-        <div>
+        <div className="container">
           {Object.entries(YAML).map(function (cat) {
             return (
               <Collapser key={cat[0]}>
