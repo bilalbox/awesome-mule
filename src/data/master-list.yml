@@ -26,9 +26,8 @@ MULE_RUNTIME:
     - https://docs.mulesoft.com/mule-runtime/latest/intro-mule-message
     - https://docs.mulesoft.com/mule-runtime/latest/migration-prep#when_to_start
     - https://www.mulesoft.com/legal/versioning-back-support-policy#end-of-life-support
-    - https://beta.docs.stgx.mulesoft.com/beta-migration-tool/mule-runtime/4.1/migration-tutorial#prereqs
     - https://docs.mulesoft.com/mule-runtime/latest/index-migration
-    - https://apisero.com/tech-tutorials/f/mule-migration-assistant
+    - https://github.com/mulesoft/mule-migration-assistant
   Mule_4_Streaming_and_Pagination:
     - https://docs.mulesoft.com/mule-runtime/latest/streaming-about#streaming-strategies
     - https://blogs.mulesoft.com/dev/mule-dev/streaming-in-mule-4/
@@ -135,11 +134,11 @@ CERTIFICATION_AND_TRAINING:
   Production_Ready_Development_Practices:
     - https://training.mulesoft.com/instructor-led-training/apdev-dev-practices
   More_practice:
-    - http://workshop.tools.mulesoft.com/modules/
     - https://developer.mulesoft.com/tutorials
+    - https://mulesy.com/mulesoft-pocs/
     - https://anypoint.mulesoft.com/exchange/?type=example
     - https://github.com/mulesoft/anypoint-examples
-
+    - http://workshop.tools.mulesoft.com/modules/
 MISCELLANIOUS:
   Microservices_vs_Monoliths:
     - https://thenewstack.io/kelsey-hightower-and-ben-sigelman-debate-microservices-vs-monoliths/
